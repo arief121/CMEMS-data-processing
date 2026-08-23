@@ -1,6 +1,6 @@
 # CMEMS-Data-Processing
 
-Hi everyone! 👋 I created this repository to help my friends and anyone who is just starting to work with oceanographic data.
+Hi everyone! 👋 I created this repository to help anyone who is just starting to work with oceanographic data.
 
 A Simple Python script for accessing, processing, and analyzing oceanographic data from CMEMS.
 
